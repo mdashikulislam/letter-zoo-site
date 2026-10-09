@@ -273,6 +273,7 @@ footer nav { display: flex; gap: 1.4rem; }
   .gallery .phone { width: 210px; }
   .stats .wrap { gap: 0.7rem; }
   .stat { padding: 1rem; }
+  .hero .eyebrow { font-size: 0.72rem; letter-spacing: 0.03em; padding: 0.35rem 0.65rem; }
 }
 
 /* Bangla pages */
