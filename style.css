@@ -141,8 +141,6 @@ p { margin: 0.5rem 0 0; }
 }
 .btn:hover { text-decoration: none; transform: translateY(-1px); }
 /* Not a link yet: the store page does not exist until the app is live. */
-.btn-soon { cursor: default; opacity: 0.85; }
-.btn-soon:hover { transform: none; }
 .btn-dark { background: #10324a; color: #fff; box-shadow: 0 10px 24px -12px rgba(0,0,0,0.5); }
 .btn-ghost { background: rgba(255,255,255,0.7); color: #10324a; }
 @media (prefers-color-scheme: dark) { .btn-ghost { background: rgba(255,255,255,0.14); color: #eaf6ff; } }
